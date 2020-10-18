@@ -27,11 +27,13 @@ def remove_element_from_start_of_array(array)
 end
 
 def retrieve_element_from_index(array, index_number)
-  array[1]
+  new_lst_5 = array[1]
+  return new_lst_5
 end
 
 def retrieve_first_element_from_array(array)
-
+  new_lst_6 = array[0]
+  return new_lst_6
 end
 
 def retrieve_last_element_from_array(array)
