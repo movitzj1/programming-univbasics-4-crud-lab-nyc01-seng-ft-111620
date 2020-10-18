@@ -17,7 +17,7 @@ def add_element_to_start_of_array(array, element)
 end
 
 def remove_element_from_end_of_array(array)
-  new_lst_3 = array.pop()
+  new_lst_3 = array.pop
   return new_lst_3
 end
 
@@ -37,7 +37,7 @@ def retrieve_first_element_from_array(array)
 end
 
 def retrieve_last_element_from_array(array)
-
+  new_list_7 = array[-1]
 end
 
 def update_element_from_index(array, index_number, element)
