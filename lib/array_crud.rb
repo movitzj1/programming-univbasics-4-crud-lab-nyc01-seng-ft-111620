@@ -32,7 +32,7 @@ def retrieve_element_from_index(array, index_number)
 end
 
 def retrieve_first_element_from_array(array)
-  new_lst_6 = array[0]
+  element_2 = array[0]
   return new_lst_6
 end
 
@@ -43,5 +43,5 @@ end
 
 def update_element_from_index(array, index_number, element)
   array[3] = "H9G"
-
+  
 end
