@@ -43,5 +43,6 @@ end
 
 def update_element_from_index(array, index_number, element)
   array[3] = "H9G"
-
+  element_4 = array[3]
+  return element_4
 end
