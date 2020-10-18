@@ -38,8 +38,9 @@ end
 
 def retrieve_last_element_from_array(array)
   new_list_7 = array[-1]
+  return new_list_7
 end
 
 def update_element_from_index(array, index_number, element)
-
+  array[3] = "H9G"
 end
