@@ -37,7 +37,7 @@ def retrieve_first_element_from_array(array)
 end
 
 def retrieve_last_element_from_array(array)
-  new_list_7 = array[-1]
+  element_3 = array[-1]
   return new_list_7
 end
 
