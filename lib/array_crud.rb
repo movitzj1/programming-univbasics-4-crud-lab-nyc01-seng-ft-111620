@@ -28,17 +28,17 @@ end
 
 def retrieve_element_from_index(array, index_number)
   element = array[1]
-  return new_lst_5
+  return element
 end
 
 def retrieve_first_element_from_array(array)
   element_2 = array[0]
-  return new_lst_6
+  return element_2
 end
 
 def retrieve_last_element_from_array(array)
   element_3 = array[-1]
-  return new_list_7
+  return element_3
 end
 
 def update_element_from_index(array, index_number, element)
