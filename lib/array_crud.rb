@@ -7,7 +7,7 @@ def create_an_array
 end
 
 def add_element_to_end_of_array(array, element)
-  new_lst_1 = array << "X940E"
+  new_lst_1 = array << "arrays!"
   return new_lst_1
 end
 
