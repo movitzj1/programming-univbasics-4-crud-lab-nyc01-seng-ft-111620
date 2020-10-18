@@ -12,7 +12,7 @@ def add_element_to_end_of_array(array, element)
 end
 
 def add_element_to_start_of_array(array, element)
-  new_lst_2 = array.upshift("P50-C1")
+  new_lst_2 = array.unshift("P50-C1")
   return new_lst_2
 end
 
