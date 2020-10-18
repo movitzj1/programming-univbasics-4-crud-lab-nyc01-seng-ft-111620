@@ -27,7 +27,7 @@ def remove_element_from_start_of_array(array)
 end
 
 def retrieve_element_from_index(array, index_number)
-  new_lst_5 = array[1]
+  element = array[1]
   return new_lst_5
 end
 
@@ -43,4 +43,5 @@ end
 
 def update_element_from_index(array, index_number, element)
   array[3] = "H9G"
+
 end
