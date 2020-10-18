@@ -43,6 +43,6 @@ end
 
 def update_element_from_index(array, index_number, element)
   array[4] = "totally"
-  element_4 = array[3]
+  element_4 = array[4]
   return element_4
 end
